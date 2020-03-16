@@ -1,1 +1,8 @@
 greeting: Greetings from Service A (from github)
+server:
+  port: 8090
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
