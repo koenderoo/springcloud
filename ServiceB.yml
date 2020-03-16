@@ -1,6 +1,6 @@
 greeting: Hello from Service B (from github)
 server:
-  port: 8090
+  port: 8091
 management:
   endpoints:
     web:
